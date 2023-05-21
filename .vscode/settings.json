@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.trimAutoWhitespace": true,
+    "editor.tabSize": 2,
+    "files.insertFinalNewline": true,
+    "editor.defaultFormatter":"dbaeumer.vscode-eslint",
+    "vs-code-prettier-eslint.prettierLast": true
+}
