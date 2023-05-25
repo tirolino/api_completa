@@ -24,5 +24,6 @@ app.put('/', (req, res) => {
 
 // Iniciar el servidor
 app.listen(3000, () => {
+  // eslint-disable-next-line no-console
   console.log('Servidor en ejecución en http://localhost:3000');
 });
